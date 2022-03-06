@@ -26,6 +26,9 @@ const FindUs = () => (
           Lorem Ipsum
         </p>
       </div>
+      <button className="custom__button" style={{ marginTop: '2rem' }}>
+        Visit Us
+      </button>
     </div>
     <div className="app__wrapper_img">
       <img 
